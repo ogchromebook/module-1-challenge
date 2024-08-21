@@ -8,7 +8,7 @@ I learned that it is easier said than done to update non-semantic HTML to semant
 
 ## Screenshot of Webpage
 
-md
+
   ![Screenshot of webpage](./assets/images/SEO-Webpage.png)
 
 ## Usage
